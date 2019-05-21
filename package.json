@@ -1,0 +1,28 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Calculator App using Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyush072/electron-calculator.git"
+  },
+  "keywords": [
+    "electron",
+    "calculator",
+    "javascript"
+  ],
+  "author": "Piyush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piyush072/electron-calculator/issues"
+  },
+  "homepage": "https://github.com/piyush072/electron-calculator#readme",
+  "dependencies": {
+    "electron": "^5.0.1"
+  }
+}
